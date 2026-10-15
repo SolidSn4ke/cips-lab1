@@ -4,3 +4,6 @@ venv
 
 # OS
 .DS_Store
+
+# Out
+target
